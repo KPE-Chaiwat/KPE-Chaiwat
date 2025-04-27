@@ -9,8 +9,6 @@ I'm passionate about software development, learning new technologies, IOT techno
 - 💬 Ask me about: [ML ang NLP]
 
 ## 🛠️ Skills
-## 🛠️ Skills
-
 <p align="left">
   <!-- Flutter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
@@ -23,15 +21,15 @@ I'm passionate about software development, learning new technologies, IOT techno
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   <!-- VHDL (FPGA) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/VHDL_logo.png" width="40" height="40" alt="VHDL (FPGA)"/>
+  <img src="https://i.ytimg.com/vi/wA_ooT4dBM8/sddefault.jpg" width="40" height="40" alt="VHDL (FPGA)"/>
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   <!-- KiCad -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/KiCad-Logo-2020.png" width="40" height="40" alt="KiCad PCB Design"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGYz56UaSVCTzZ4HI4FqL1MV0NL8XDtWeqKQ&s" width="40" height="40" alt="KiCad PCB Design"/>
   <!-- PLC Siemens -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Siemens-logo.svg/1280px-Siemens-logo.svg.png" width="40" height="40" alt="PLC Siemens"/>
+  <img src="https://www.logo.wine/a/logo/Siemens/Siemens-Logo.wine.svg" width="40" height="40" alt="PLC Siemens"/>
 </p>
 
 ## 📈 GitHub Stats
